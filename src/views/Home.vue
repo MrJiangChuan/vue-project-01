@@ -16,3 +16,9 @@ export default {
   }
 }
 </script>
+	
+<style>
+	.home { 
+		border: #2C3E50 1px solid;
+	}
+</style>
